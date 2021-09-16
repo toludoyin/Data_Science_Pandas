@@ -1,3 +1,4 @@
 # Data_Science_Pandas
-Data manipulation and visualisation of data with the use of pandas, matplot and plotly
+PL: Python
+Data extraction, cleaning, wrangling and visualisation  with the use of pandas library, matplot, seaborn and plotly
 
