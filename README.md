@@ -1,5 +1,8 @@
 # datascience_pandas
-PL: Python
 
-Data extraction, cleaning, wrangling and visualisation  with the use of pandas library, matplotlib, seaborn and plotly
+Data extraction
+
+Data cleaning, wrangling
+
+Data visualisation using python libraries; numpy, pandas, matplotlib, seaborn, plotly
 
