@@ -1,7 +1,7 @@
-# data analysis with python
+# Data analysis with python
 
-Data extraction
+Data extraction using python library (pandas).
 
-Data cleaning, wrangling
+Data cleaning, data wrangling, data manipulation using numpy, pandas.
 
-Data visualisation using python libraries; numpy, pandas, matplotlib, seaborn, plotly
+Data visualisation using python libraries; matplotlib, seaborn, plotly.
