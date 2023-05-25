@@ -15,4 +15,6 @@ orders_detail_merge = order.merge(order_detail, on = "order_id", how = "left")
 pizza_merge = orders_detail_merge.merge(pizza, on = "pizza_id", how = "left")
 pizza_type_merge = pizza_merge .merge(pizza_type, on = "pizza_type_id", how = "left")
 
+pizza_type_merge['sales'] = pizza_type_merge['price'] * pizza_type_merge['quantity']
+
 pizza_type_merge.to_csv('pizza-sales.csv', index=False)
